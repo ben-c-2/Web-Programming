@@ -1,0 +1,29 @@
+.Day{
+  border: 2px solid black;
+  width: 13%;
+  height: 20%;
+  padding-bottom: 10%;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font: bold;
+  
+  
+}
+
+#box{
+  display: flex;
+  padding-top: 20%;
+  height: 20%;
+
+}
+
+.btn{
+  border: none;
+  background-color: green;
+  padding: 10px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  cursor: pointer;
+}
+
+.exercise{
+  background-color: lightblue;
+}
